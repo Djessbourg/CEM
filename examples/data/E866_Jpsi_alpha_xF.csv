@@ -1,0 +1,25 @@
+# E866/NuSea, p+A -> J/psi, 800 GeV: alpha(x_F), Table I of Leitch et al., PRL 84 (2000) 3256 (nucl-ex/9909007v3)
+# alpha defined by sigma_A = sigma_N * A^alpha; values corrected for the pT acceptance, pT-integrated
+# Columns: <x_F>   alpha_J/psi   d_alpha_stat (last digits in parentheses in the paper)   d_alpha_syst
+# d_alpha_syst = 0.01: absolute systematic uncertainty quoted in the paper (mostly correlated between points; here added in quadrature)
+-0.065 0.962 0.007 0.01
+-0.019 0.953 0.003 0.01
+0.027 0.955 0.002 0.01
+0.075 0.955 0.002 0.01
+0.124 0.952 0.003 0.01
+0.173 0.955 0.004 0.01
+0.223 0.951 0.006 0.01
+0.277 0.917 0.011 0.01
+0.332 0.916 0.006 0.01
+0.381 0.888 0.007 0.01
+0.431 0.875 0.006 0.01
+0.481 0.852 0.005 0.01
+0.531 0.831 0.005 0.01
+0.582 0.811 0.005 0.01
+0.632 0.789 0.006 0.01
+0.682 0.772 0.005 0.01
+0.732 0.772 0.007 0.01
+0.781 0.739 0.010 0.01
+0.828 0.760 0.017 0.01
+0.873 0.733 0.032 0.01
+0.913 0.611 0.071 0.01

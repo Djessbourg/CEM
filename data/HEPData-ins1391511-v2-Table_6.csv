@@ -1,0 +1,29 @@
+#: table_doi: 10.17182/hepdata.70048.v2/t6
+#: name: Table 6
+#: description: Differential cross-sections as a function of $y$ integrated over $p_\perp$ for prompt $J/\psi$ mesons. The first uncertainties are statistical and the second (third) are the correlated (uncorrelated) systematic uncertainties.
+
+#: data_file: Table6.yaml
+#: keyword reactions: P P --> J/PSI X
+#: keyword observables: DSIG/DYRAP
+#: keyword phrases: Inclusive | Single Differential Cross Section | Rapidity Dependence | Proton-Proton Scattering | Muon production
+#: keyword cmenergies: 13000.0 | 8000.0
+#: PT (C=J/PSI) in GEV,,,0.0-14.0
+#: RE,,,P P --> J/PSI < MU+ MU- > X
+#: SQRT(S) [GeV],,,13000.0
+YRAP,YRAP LOW,YRAP HIGH,DSIG/DYRAP [MUB],stat +,stat -,"sys,uncorr +","sys,uncorr -","sys,corr +","sys,corr -"
+2.25,2.0,2.5,7.049,0.033,-0.033,0.072,-0.072,0.516,-0.516
+2.75,2.5,3.0,6.84,0.021,-0.021,0.029,-0.029,0.39,-0.39
+3.25,3.0,3.5,6.236,0.018,-0.018,0.024,-0.024,0.35,-0.35
+3.75,3.5,4.0,5.413,0.017,-0.017,0.025,-0.025,0.344,-0.344
+4.25,4.0,4.5,4.519,0.02,-0.02,0.043,-0.043,0.343,-0.343
+
+#: PT (C=J/PSI) in GEV,,,0.0-14.0
+#: RE,,,P P --> J/PSI < MU+ MU- > X
+#: SQRT(S) [GeV],,,8000.0
+YRAP,YRAP LOW,YRAP HIGH,DSIG/DYRAP [MUB],stat +,stat -,"sys,uncorr +","sys,uncorr -","sys,corr +","sys,corr -"
+2.25,2.0,2.5,5.14,0.026,-0.026,0.049,-0.049,0.368,-0.368
+2.75,2.5,3.0,5.066,0.014,-0.014,0.03,-0.03,0.363,-0.363
+3.25,3.0,3.5,4.573,0.011,-0.011,0.02,-0.02,0.328,-0.328
+3.75,3.5,4.0,3.94,0.011,-0.011,0.024,-0.024,0.282,-0.282
+4.25,4.0,4.5,3.153,0.012,-0.012,0.016,-0.016,0.226,-0.226
+

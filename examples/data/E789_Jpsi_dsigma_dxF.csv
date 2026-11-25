@@ -1,0 +1,17 @@
+# E789 (Kowitt et al., PRL 72 (1994) 1318, FERMILAB-Pub-93/344), p+A -> J/psi, 800 GeV/c, sqrt(s) = 38.7 GeV
+# Table I: (1/A) dsigma/dxF in nb/nucleon. Error columns: statistical, then diagonal element of the systematic covariance.
+# An overall normalisation uncertainty of 12% is NOT included. The Be bin at xF = 0.925 is only an upper limit (< 0.028, 95% CL): set to nan.
+# Columns: xF  Cu  Cu_stat  Cu_syst  Be  Be_stat  Be_syst
+0.325 211.3 0.7  9    241  2    9
+0.375 121.0 0.4  2    138  1    3
+0.425 70.2  0.3  1    83.2 0.8  1
+0.475 40.9  0.2  0.7  49.4 0.6  0.8
+0.525 23.4  0.2  0.3  28.0 0.4  0.5
+0.575 12.7  0.1  0.2  16.1 0.3  0.3
+0.625 6.57  0.08 0.09 8.4  0.2  0.2
+0.675 3.27  0.06 0.06 3.9  0.2  0.2
+0.725 1.39  0.04 0.04 2.0  0.1  0.1
+0.775 0.54  0.02 0.03 0.66 0.06 0.06
+0.825 0.22  0.01 0.01 0.20 0.03 0.03
+0.875 0.057 0.008 0.008 0.13 0.02 0.03
+0.925 0.016 0.006 0.005 nan  nan  nan
